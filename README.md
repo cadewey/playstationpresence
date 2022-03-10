@@ -1,3 +1,5 @@
+## Note: Now that PSN natively supports Discord statuses, this repo has been archived
+
 # What is this?
 
 This is a combination of two apps/tools:
